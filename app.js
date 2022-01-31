@@ -1,5 +1,5 @@
 const name = "Hunter Hamilton";
-const career = "Web Development, Software Development";
+const career = "Web Development, Software Engineer";
 const description =
   "Knowledgeable Technical Support Specialist with over 8 years of experience in large corporations, 4 years of experience with workshop background as an automotive mechanic, and 4 years of experience within a warehouse atmosphere as Technical Support Director, Quality Control Manager, and Operations Exectuive.";
 const interests = ["Locomotives", "Art", "Computers", "Piano", "Cars"];
